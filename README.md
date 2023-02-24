@@ -15,3 +15,4 @@ Article for [zenn](zenn.dev).
   - [zenn-cli](https://zenn.dev/zenn/articles/install-zenn-cli)
 - zenn-cli を使った記事の作成
   - [how to use zenn-cli](https://zenn.dev/zenn/articles/zenn-cli-guide)
+    -  npx zenn new:article
